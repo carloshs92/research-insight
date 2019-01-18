@@ -1,4 +1,4 @@
 baseURL = "https://carloshs92.github.io"
-languageCode = "en-ES"
-title = "Proyecto Innovación"
+languageCode = "en-us"
+title = "Innovation Project"
 theme = "meghna-hugo"
