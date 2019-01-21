@@ -2,3 +2,20 @@ baseURL = "https://carloshs92.github.io/research-insight"
 languageCode = "en-us"
 title = "Innovation Project"
 theme = "meghna-hugo"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Proyecto"
+    URL = "about2"
+    weight = 2
+
+    [[menu.nav]]
+    name = "Equipo"
+    URL = "our-team"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Blog"
+    URL = "blog"
+    weight = 4

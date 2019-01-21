@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Innovation Project</title>
-    <link>https://carloshs92.github.io/research-insight/</link>
-    <description>Recent content on Innovation Project</description>
+    <title>Posts on Innovation Project</title>
+    <link>https://carloshs92.github.io/research-insight/posts/</link>
+    <description>Recent content in Posts on Innovation Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
     
-	<atom:link href="https://carloshs92.github.io/research-insight/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://carloshs92.github.io/research-insight/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
