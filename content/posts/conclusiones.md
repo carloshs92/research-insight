@@ -2,7 +2,7 @@
 title: "Conclusiones"
 date: 2019-01-23T23:52:36+06:00
 image: images/blog/conclusion.jpg
-author: Jamica Jock
+author: Adela
 description : "This is meta description"
 ---
 

@@ -80,10 +80,135 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
   - types : research
     image : images/portfolio/research.jpeg
     icon : tf-ion-android-search
     URL : #
     title : Investigación
     description : Estudio de causas y concecuencias del problema
+
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa1.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa2.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa3.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa4.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa5.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa6.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa7.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa8.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa9.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa10.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa11.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa12.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa13.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa14.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+
+
+  - types : rp
+    image : images/portfolio/rpa/rpa15.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry

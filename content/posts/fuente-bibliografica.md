@@ -2,7 +2,7 @@
 title: "Fuentes Bibliográficas"
 date: 2019-01-23T22:52:36+06:00
 image: images/blog/bibliografia.jpg
-author: Jamica Jock
+author: Jose
 description : "This is meta description"
 ---
 
