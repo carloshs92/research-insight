@@ -1,7 +1,7 @@
 ---
 title: "Lista de Preguntas"
 date: 2019-01-24T11:52:36+06:00
-image: images/blog/preguntas1.png
+image: images/blog/cafe.jpeg
 author: Jamica Jock
 description : "This is meta description"
 ---

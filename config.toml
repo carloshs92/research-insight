@@ -23,13 +23,18 @@ theme = "meghna-hugo"
 # Site params
 [params]
 home= "Inicio"
-logo = "images/logo.png"
+logo = "images/logo.png?v=1"
 
 # Banner Section
 [params.banner]
 enable = true
-bgImage = "images/banner.jpg"
+bgImage = "images/banner2.jpg?v=1"
 icon = "tf-pencil2"
 heading = "Metodologías Ágiles para la Innovación I"
 content= "Estudio de la experiencia en la entrega de comida en el patio de comidas de Real Plaza Salaverry"
 btn = false
+
+# footer
+[params.footer]
+copyright = "Pandas"
+copyrightURL = "https://carloshs92.github.io/research-insight/"
