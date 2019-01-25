@@ -1,13 +1,26 @@
 enable : true
 image : images/about/logo.png
-title : We’re A Digital Design Agency.
-description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
-description2 : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi.
+title : Equipo - Pandas
+description : "Nombre del equipo:"
+description2 : Adela, Carlos, Celeste, José, Maritza
 aboutItem :
-  - icon : tf-circle-compass
-    title : SEO Optimized
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon : tf-trophy6
+    title : Motivación
+    content : Haciendo las cosas con pasión y con motivación ayuda a hacer las cosas bien.
 
-  - icon : tf-hotairballoon
-    title : Easy Customization
-    content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+  - icon : tf-circle-compass
+    title : Proactividad
+    content : Siempre hay que intentar aportar todo aquello que se pueda y así ayudar al equipo para lograr el objetivo.
+
+  - icon : tf-adjustments
+    title : Organización
+    content : Ser ordenados ayudará a que el equipo pueda avanzar más rápido sin bloquearnos entre nosotros.
+
+  - icon : tf-shield2
+    title : Responsabilidad con el equipo
+    content : Si cada uno va por su lado sin pensar en el conjunto nada va a funcionar dentro del equipo.
+
+  - icon : tf-megaphone
+    title : Honestidad
+    content : Permite ser honesto y así informar cuándo es posible no llegar a los tiempos o cuándo algo no se sabe hacer con exactitud.
+

@@ -6,19 +6,54 @@
     <description>Recent content on Innovation Project</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 12:52:36 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 24 Jan 2019 11:52:36 +0600</lastBuildDate>
     
 	<atom:link href="https://carloshs92.github.io/research-insight/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Simple Image Post</title>
-      <link>https://carloshs92.github.io/research-insight/posts/my-first-post/</link>
-      <pubDate>Wed, 12 Sep 2018 12:52:36 +0600</pubDate>
+      <title>Lista de Preguntas</title>
+      <link>https://carloshs92.github.io/research-insight/posts/preguntas/</link>
+      <pubDate>Thu, 24 Jan 2019 11:52:36 +0600</pubDate>
       
-      <guid>https://carloshs92.github.io/research-insight/posts/my-first-post/</guid>
-      <description>Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.
-Sed porttitor lectus nibh. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula.</description>
+      <guid>https://carloshs92.github.io/research-insight/posts/preguntas/</guid>
+      <description>Lista de preguntas de entrevista de experto y a usuarios Entrevista a usuarios  ¿Qué criterios usas para elegir la ubicación de tu mesa? ¿Usualmente cómo te entregan tu pedido? ¿Qué franquicia te parece que tiene mejor entrega de pedido? ¿Haz tenido algún problema al momento de la entrega de tu pedido? ¿Haz perdido tu mesa por consultar el status o recibir tu pedido? ¿Qué pasó? ¿Con qué frecuencia y horario visitas el patio de comidas?</description>
+    </item>
+    
+    <item>
+      <title>Entrevistas Realizadas</title>
+      <link>https://carloshs92.github.io/research-insight/posts/entrevistas-realizadas/</link>
+      <pubDate>Thu, 24 Jan 2019 10:52:36 +0600</pubDate>
+      
+      <guid>https://carloshs92.github.io/research-insight/posts/entrevistas-realizadas/</guid>
+      <description> Entrevistas Realizadas </description>
+    </item>
+    
+    <item>
+      <title>Conclusiones</title>
+      <link>https://carloshs92.github.io/research-insight/posts/conclusiones/</link>
+      <pubDate>Wed, 23 Jan 2019 23:52:36 +0600</pubDate>
+      
+      <guid>https://carloshs92.github.io/research-insight/posts/conclusiones/</guid>
+      <description> Conclusiones </description>
+    </item>
+    
+    <item>
+      <title>Descripción del Usuario</title>
+      <link>https://carloshs92.github.io/research-insight/posts/descripcion-del-usuario/</link>
+      <pubDate>Wed, 23 Jan 2019 23:51:36 +0600</pubDate>
+      
+      <guid>https://carloshs92.github.io/research-insight/posts/descripcion-del-usuario/</guid>
+      <description> Descripción del Usuario </description>
+    </item>
+    
+    <item>
+      <title>Fuentes Bibliográficas</title>
+      <link>https://carloshs92.github.io/research-insight/posts/fuente-bibliografica/</link>
+      <pubDate>Wed, 23 Jan 2019 22:52:36 +0600</pubDate>
+      
+      <guid>https://carloshs92.github.io/research-insight/posts/fuente-bibliografica/</guid>
+      <description> Fuentes Bibliográficas </description>
     </item>
     
   </channel>

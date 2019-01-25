@@ -1,0 +1,89 @@
+enable : true
+heading : Investigación
+headingSpan : Multimedia
+filterList :
+  - filterType : research
+    filterTitle : Resultados
+
+  - filterType : rp
+    filterTitle : Patio de Comidas
+
+
+portfolioItem :
+  - types : rp
+    image : images/portfolio/rp1.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : development
+    image : images/portfolio/rp2.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp3.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp4.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp5.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp6.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp7.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp8.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp10.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp
+    image : images/portfolio/rp9.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Patio de comidas
+    description : Imagen del paio de comidas del Real Plaza Salaverry
+
+
+  - types : research
+    image : images/portfolio/research.jpeg
+    icon : tf-ion-android-search
+    URL : #
+    title : Tag Design
+    description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!

@@ -6,16 +6,30 @@ theme = "meghna-hugo"
 # Menu
 [menu]
     [[menu.nav]]
-    name = "Proyecto"
+    name = "Nosotros"
     URL = "about2"
-    weight = 2
-
-    [[menu.nav]]
-    name = "Equipo"
-    URL = "our-team"
-    weight = 3
+    weight = 1
 
     [[menu.nav]]
     name = "Blog"
     URL = "blog"
-    weight = 4
+    weight = 2
+
+    [[menu.nav]]
+    name = "Multimedia"
+    URL = "portfolio"
+    weight = 3
+
+# Site params
+[params]
+home= "Inicio"
+logo = "images/logo.png"
+
+# Banner Section
+[params.banner]
+enable = true
+bgImage = "images/banner.jpg"
+icon = "tf-pencil2"
+heading = "Metodologías Ágiles para la Innovación I"
+content= "Estudio de la experiencia en la entrega de comida en el patio de comidas de Real Plaza Salaverry"
+btn = false
