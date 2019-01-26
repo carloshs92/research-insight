@@ -2,11 +2,15 @@ enable : true
 heading : Investigación
 headingSpan : Multimedia
 filterList :
-  - filterType : research
-    filterTitle : Resultados
 
   - filterType : rp
     filterTitle : Patio de Comidas
+
+  - filterType : research
+    filterTitle : Investigación
+
+  - filterType : ottogrill
+    filterTitle : Proceso de Atención
 
 
 portfolioItem :
@@ -17,7 +21,7 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-  - types : development
+  - types : rp
     image : images/portfolio/rp2.jpeg
     icon : tf-ion-android-search
     URL : #
@@ -87,15 +91,12 @@ portfolioItem :
     title : Investigación
     description : Estudio de causas y concecuencias del problema
 
-
-
   - types : rp
     image : images/portfolio/rpa/rpa1.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
-
 
   - types : rp
     image : images/portfolio/rpa/rpa2.jpg
@@ -104,14 +105,12 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
   - types : rp
     image : images/portfolio/rpa/rpa3.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
-
 
   - types : rp
     image : images/portfolio/rpa/rpa4.jpg
@@ -120,14 +119,12 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
   - types : rp
     image : images/portfolio/rpa/rpa5.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
-
 
   - types : rp
     image : images/portfolio/rpa/rpa6.jpg
@@ -136,14 +133,12 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
   - types : rp
     image : images/portfolio/rpa/rpa7.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
-
 
   - types : rp
     image : images/portfolio/rpa/rpa8.jpg
@@ -152,14 +147,12 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
   - types : rp
     image : images/portfolio/rpa/rpa9.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
-
 
   - types : rp
     image : images/portfolio/rpa/rpa10.jpg
@@ -168,15 +161,12 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
   - types : rp
     image : images/portfolio/rpa/rpa11.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
-
-
 
   - types : rp
     image : images/portfolio/rpa/rpa12.jpg
@@ -185,16 +175,12 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
-
   - types : rp
     image : images/portfolio/rpa/rpa13.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
-
-
 
   - types : rp
     image : images/portfolio/rpa/rpa14.jpg
@@ -203,12 +189,44 @@ portfolioItem :
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
 
-
-
-
   - types : rp
     image : images/portfolio/rpa/rpa15.jpg
     icon : tf-ion-android-search
     URL : #
     title : Patio de comidas
     description : Imagen del paio de comidas del Real Plaza Salaverry
+
+  - types : rp, ottogrill
+    image : images/portfolio/otto/grill1.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Pedido Otto Grill
+    description : 1. Esperando el Pedido
+
+  - types : rp, ottogrill
+    image : images/portfolio/otto/grill2.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Pedido Otto Grill
+    description : 2. Entrega del Pedido a los 11 minutos
+
+  - types : rp, ottogrill
+    image : images/portfolio/otto/grill3.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Pedido Otto Grill
+    description : 3. Lista para disfrutar del pedido
+
+  - types : rp, ottogrill
+    image : images/portfolio/otto/grill4.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Pedido Otto Grill
+    description : 4. Disfrutando su almuerzo
+
+  - types : rp, ottogrill
+    image : images/portfolio/otto/grill5.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Pedido Otto Grill
+    description : 5. Ubicó su cartera en silla para mejor comodidad
