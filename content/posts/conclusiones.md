@@ -9,3 +9,13 @@ description : "This is meta description"
 # Conclusiones
 
 Se muestra favorable a una entrega de pedido estandarizada, que no implique llamado de atención a la mesa. 
+
+Los consumidores de comida rápida asisten por lo menos dos veces a la semana al patio de comidas.
+
+La atención, en su mayoria, se caracteriza por llamar al consumidor por su nombre.
+
+Los fines de semana se muestra el patio de comidas muy lleno, donde la bulla distrae a los comensales, lo que ocasiona que no escuchen su nombre para recoger sus pedidos.
+
+Existen dos grupos de personas que acuden el fin de semana: jóvenes (edad escolar y universitarios) y padres con sus hijos (familia).
+
+Existe la alternativa de atención de pedido en mesa (Otto Grill), donde el comenzal espere tranquilo y sin tensión, identificado por un número que se le entrega al momento que paga.
