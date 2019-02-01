@@ -21,10 +21,10 @@ Nos detuvimos un momento ante dicho directorio  con la finalidad de conocer si e
 
 De esta manera, rápidamente realizamos un sondeo con dos preguntas relacionadas a la experiencia  en el  centro comercial y, si habían percibido algún inconveniente en su permanencia.  De ello, obtuvimos las siguientes respuestas:
 
-1. Mucha congestión en escaleras eléctricas y en ascensores durante el fin de semana; cabe resaltar que los ascensores son de uso preferencial.
-1. Pocas bancas para descansar.
-1. Inseguridad para los niños ya que los vigilantes los dejan salir sin mayor cuidado.
-1. Falta de señalización para ubicar la salida.
+1.  Mucha congestión en escaleras eléctricas y en ascensores durante el fin de semana; cabe resaltar que los ascensores son de uso preferencial.
+2.  Pocas bancas para descansar.
+3.  Inseguridad para los niños ya que los vigilantes los dejan salir sin mayor cuidado.
+4.  Falta de señalización para ubicar la salida.
 
 Luego de recoger la información del sondeo, evaluamos cada respuesta analizando cuál representaba un mayor reto, pero no quedamos satisfechos de que habría una gran oportunidad para un nuevo desafío. 
 
@@ -36,16 +36,16 @@ Asimismo, adoptamos el rol de cliente con la finalidad de identificar los posibl
 
 Posteriormente, nos reunimos para plasmar todo lo vivenciado resaltando lo siguiente: 
 
-1. Uso indiscriminado del plástico.
-1. Demasiado bullicio cuando el patio de comidas se encuentra lleno.
-1. Uso no adecuado de las instalaciones por parte de estudiantes u otras personas que no van a comer sino a hacer tareas o para otras actividades.
-1. Incomodidad por parte de comensales que se paran cerca de tu sitio para separar mesa.
-1. Falta de limpieza de las mesas después de comer.
-1. Pedidos incompletos.
-1. La atención de pedidos es de diferentes maneras, como  por ejemplo: el llamado por el nombre (gritos o con micrófono), la entrega de un número de pedido con atención en la mesa o con beeper que vibra al momento que ya está listo el pedido.
-1. Las opciones culinarias no se encuentran centralizadas para una mejor búsqueda de opciones.
-1. Pocas alternativas de comidas saludables.
-1. Falta de seguridad para proteger las cosas personales.
+1.  Uso indiscriminado del plástico.
+2.  Demasiado bullicio cuando el patio de comidas se encuentra lleno.
+3.  Uso no adecuado de las instalaciones por parte de estudiantes u otras personas que no van a comer sino a hacer tareas o para otras actividades.
+4.  Incomodidad por parte de comensales que se paran cerca de tu sitio para separar mesa.
+5.  Falta de limpieza de las mesas después de comer.
+6.  Pedidos incompletos.
+7.  La atención de pedidos es de diferentes maneras, como  por ejemplo: el llamado por el nombre (gritos o con micrófono), la entrega de un número de pedido con atención en la mesa o con beeper que vibra al momento que ya está listo el pedido.
+8.  Las opciones culinarias no se encuentran centralizadas para una mejor búsqueda de opciones.
+9.  Pocas alternativas de comidas saludables.
+10.  Falta de seguridad para proteger las cosas personales.
 
 De todo ello, identificamos  que existía un problema en la atención al cliente, es decir al momento de llamarlo para atender su pedido, sobre todo cuando la capacidad del patio de comidas alcanzaba su máximo aforo o al momento de ubicarse en un lugar distante al del local donde se hizo el pedido.  
 
