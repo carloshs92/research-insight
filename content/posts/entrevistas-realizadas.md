@@ -38,7 +38,7 @@ Encuestas a usuarios
 
 Entrevista a experto
 -----
-![Experto entrevistado](images/blog/expert.png)
+![Experto entrevistado](/research-insight/images/blog/expert.png)
 
 Renzo, es un administrador de 31 años, de una reconocida tienda de comida rápida desde hace 3 años y en líneas generales nos indicó que, desde su experiencia, conoce tres tipos de entrega de pedido al cliente:
 
