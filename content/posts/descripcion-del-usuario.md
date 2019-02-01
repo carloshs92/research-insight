@@ -14,16 +14,16 @@ Además hemos encontrado los fines de semanas una afluencia de jóvenes que tien
 
 ¿Qué le gusta al usuario?
 -----
-Precios bajos que son accesibles al público
-La variedad de comida rápida
-Porque hay una amplia infraestructura en el patio de comidas
-Porque no hay control para permanecer en el patio de comidas
+* Precios bajos que son accesibles al público
+* La variedad de comida rápida
+* Porque hay una amplia infraestructura en el patio de comidas
+* Porque no hay control para permanecer en el patio de comidas
 
 ¿Qué no le gusta?
 ----
-Estar pendiente de su pedido
-La indecisión de no saber comer
-Incomodidad por la mala higiene
-La atención muy fria por parte del personal que atiende.
-Escasez de alternativas de comidas saludables.
-Personas que usan las mesas para otras actividades
+- Estar pendiente de su pedido
+- La indecisión de no saber comer
+- Incomodidad por la mala higiene
+- La atención muy fria por parte del personal que atiende.
+- Escasez de alternativas de comidas saludables.
+- Personas que usan las mesas para otras actividades
