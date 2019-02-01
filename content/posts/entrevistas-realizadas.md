@@ -13,6 +13,10 @@ Encuestas a usuarios
 
 1. **Encuesta a Antonio Ayala**
 
+![Encuesta a Antonio](/research-insight/images/blog/antonio.jpg)
+
+Antonio tiene como profesión Ingeniero de Sistemas y es amante de los autos, no es de frecuentar los patios de comida debido a que no hay mucha variedad de comida saludable y el trato frío de los que atienden en las franquicias. Antonio busca una atención de calidad por eso decide ir a los restaurantes.
+
 * https://drive.google.com/file/d/1dwYuNMgLpTtKzfODHwKVQRualwKuRTip/view?usp=sharing
 
 
