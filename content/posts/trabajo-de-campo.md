@@ -1,7 +1,7 @@
 ---
-title: "Proceso de Investigación"
+title: "Trabajo de campo"
 date: 2019-01-24T11:51:36+06:00
-image: images/blog/investigacion.jpg
+image: images/blog/realplaza.jpg
 author: Maritza, Adela
 description : "This is meta description"
 ---

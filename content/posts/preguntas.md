@@ -1,12 +1,12 @@
 ---
-title: "Lista de Preguntas"
-date: 2019-01-24T11:52:36+06:00
-image: images/blog/cafe.jpeg
+title: "Cuestionario para Entrevistas"
+date: 2019-01-24T11:51:34+06:00
+image: images/blog/cafe.png
 author: Carlos
 description : "This is meta description"
 ---
 
-# Lista de preguntas de entrevista de experto y a usuarios
+# Lista de preguntas para entrevistas a usuarios y a experto
 
 Entrevista a usuarios
 -----
