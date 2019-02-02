@@ -8,7 +8,9 @@ description : "This is meta description"
 
 # Conclusiones
 
-Se muestra favorable a una entrega de pedido estandarizada, que no implique llamado de atención a la mesa. 
+**El presente trabajo nos ha permitido obtener las siguientes conclusiones:**
+
+El cliente se muestra favorable a una entrega de pedido estandarizado, que no implique el llamado para la entrega de pedido. 
 
 Los consumidores de comida rápida asisten por lo menos dos veces a la semana al patio de comidas.
 
@@ -18,4 +20,11 @@ Los fines de semana se muestra el patio de comidas muy lleno, donde la bulla dis
 
 Existen dos grupos de personas que acuden el fin de semana: jóvenes (edad escolar y universitarios) y padres con sus hijos (familia).
 
-Existe la alternativa de atención de pedido en mesa (Otto Grill), donde el comenzal espere tranquilo y sin tensión, identificado por un número que se le entrega al momento que paga.
+Existe la alternativa de atención de pedido en mesa (Otto Grill), donde el comensal espere tranquilo y sin tensión, identificado por un número que se le entrega al momento que paga.
+
+El comensal vuelve a comer en el mismo local a pesar que lo atendieron mal debido a la sazón de la comida. 
+
+El comensal se tensiona por la incertidumbre si lo han llamado por su pedido. 
+
+La comunicación del personal hacia al cliente es poco amigable. 
+

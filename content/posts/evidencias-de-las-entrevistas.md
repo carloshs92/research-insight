@@ -1,5 +1,5 @@
 ---
-title: "Entrevistas Realizadas"
+title: "Evidencias de las entrevistas"
 date: 2019-01-24T10:52:36+06:00
 image: images/blog/entrevista.jpg
 author: Maritza

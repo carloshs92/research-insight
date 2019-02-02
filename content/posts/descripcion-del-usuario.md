@@ -15,21 +15,35 @@ Además hemos encontrado los fines de semanas una afluencia de jóvenes que tien
 Estilo de vida
 ---
 Son millennials en su mayoría pero también se involucran a personas de la generación X.
-Según estudio de Arellano, son en su mayoría personas modernas.
+
+Según estudio de Arellano, son en su mayoría son personas modernas.
+
+Son personas que frecuentan ir al cine así como también los padres de familia llevan a sus hijos a los juegos.
+
+De esta manera, hemos identificado lo siguiente:
 
 
-¿Qué le gusta?
------
-* Precios bajos que son accesibles al público
-* La variedad de comida rápida
-* Porque hay una amplia infraestructura en el patio de comidas
-* Porque no hay control para permanecer en el patio de comidas
+**¿Qué le gusta?**
 
-¿Qué no le gusta?
-----
-- Estar pendiente de su pedido
-- La indecisión de no saber comer
-- Incomodidad por la mala higiene
-- La atención muy fria por parte del personal que atiende.
+* Precios bajos que son accesibles al público.
+
+* La variedad de comida rápida.
+
+* Porque hay una amplia infraestructura en el patio de comidas.
+
+* Porque no hay control para permanecer en el patio de comidas.
+
+
+**¿Qué no le gusta?**
+
+- Estar pendiente de su pedido.
+
+- La indecisión de no saber comer.
+
+- Incomodidad por no mantener la calidad del producto de manera permanente.
+
+- La atención muy fria por parte del personal que atiende..
+
 - Escasez de alternativas de comidas saludables.
-- Personas que usan las mesas para otras actividades
+
+- Personas que usan las mesas para otras actividades.
