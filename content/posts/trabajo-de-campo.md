@@ -62,3 +62,23 @@ Nuestras entrevistas fueron grabadas y las presentamos en audio para evidenciar 
 Por otro lado, también entrevistamos a un administrador de una reconocida cadena de comida rápida, quien nos indicó que se está trabajando en reducir tiempos de espera para que realmente se logre el objetivo de que el cliente pague y en breves minutos reciba su pedido evitando así congestión, mayores reclamos por confusiones de nombre o pedidos equivocados.
 
 Finalmente, continuamos trabajando analizando el mapa de empatía y elaborando el mapa de trayectoria con lo cual vamos identificando los insights y así poder ofrecer una solución creativa al problema identificado.
+
+Actividades Realizadas
+---
+
+**Arbol de causas y efectos**
+
+![Encuesta a Antonio](/research-insight/images/work/research.jpeg)
+
+
+
+
+**Mapa de Empatía**
+
+![Encuesta a Antonio](/research-insight/images/work/mapa.jpeg)
+
+
+
+**BrainWriting**
+
+![Encuesta a Antonio](/research-insight/images/work/brainwriting.jpeg)

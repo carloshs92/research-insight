@@ -9,9 +9,6 @@ filterList :
   - filterType : restaurantes
     filterTitle : Restaurantes
 
-  - filterType : research
-    filterTitle : Investigación
-
   - filterType : ottogrill
     filterTitle : Proceso de Atención
 
@@ -136,13 +133,6 @@ portfolioItem :
     URL : #
     title : Restaurantes en Patio de Comidas
     description : 9.  Algunas tiendas de comida rápida
-
-  - types : research
-    image : images/portfolio/research.jpeg
-    icon : tf-ion-android-search
-    URL : #
-    title : Investigación
-    description : Estudio de causas y concecuencias del problema
 
   - types : rp, ottogrill
     image : images/portfolio/otto/grill1.jpg
