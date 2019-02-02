@@ -12,7 +12,13 @@ Los consumidores de comida rápida son hombres y mujeres de 25 a 50 años del ni
 
 Además hemos encontrado los fines de semanas una afluencia de jóvenes que tienen la necesidad social (amistad) y deseo de aceptación del grupo.
 
-¿Qué le gusta al usuario?
+Estilo de vida
+---
+Son millennials en su mayoría pero también se involucran a personas de la generación X.
+Según estudio de Arellano, son en su mayoría personas modernas.
+
+
+¿Qué le gusta?
 -----
 * Precios bajos que son accesibles al público
 * La variedad de comida rápida

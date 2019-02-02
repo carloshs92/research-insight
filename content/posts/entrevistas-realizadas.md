@@ -62,9 +62,9 @@ Renzo, es un administrador de 31 años, de una reconocida tienda de comida rápi
 
 - El cliente al momento de pagar su pedido recibe su ticket con un número de orden el cual se proyectará en una pantalla para ser atendido, esto evita que se le llame por su nombre y es un sistema parecido al de algunos bancos.
 - Cuando el cajero toma el nombre del cliente para que pueda llamarlo en cuanto se encuentre listo su pedido.
-- El cliente al momento de pagar su pedido recibe su comprobante de pago y además un *beeper vibrador para ser llamado* para la entrega de su pedido.
+- El cliente al momento de pagar su pedido recibe su comprobante de pago y además un **beeper vibrador para ser llamado** para la entrega de su pedido.
 
 
 De esta manera, precisa que el más favorable tipo de entrega es el primer tipo porque se evita confusiones al momento de llamar, no existe más bulla y hay una mayor preocupación por el cliente para ser mejor atendido.
 
-Resalta que lo ideal es que el cliente compre y *se lleve la comida de inmediato* con lo cual se lograría el objetivo de la *comida rápida*. 
+Resalta que lo ideal es que el cliente compre y **se lleve la comida de inmediato** con lo cual se lograría el objetivo de la **comida rápida**. 

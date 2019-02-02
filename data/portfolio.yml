@@ -3,8 +3,11 @@ heading : Investigación
 headingSpan : Multimedia
 filterList :
 
-  - filterType : rp
+  - filterType : patio
     filterTitle : Patio de Comidas
+
+  - filterType : restaurantes
+    filterTitle : Restaurantes
 
   - filterType : research
     filterTitle : Investigación
@@ -14,75 +17,125 @@ filterList :
 
 
 portfolioItem :
-  - types : rp
-    image : images/portfolio/rp1.jpeg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
 
-  - types : rp
-    image : images/portfolio/rp2.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/1.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 1. Subiendo por la escalera eléctrica, al lado derecho se encuentra Popeyes
 
-  - types : rp
-    image : images/portfolio/rp3.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/2.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 2. Subiendo por la escalera eléctrica, al lado izquierdo se encuentra Bembos
 
-  - types : rp
-    image : images/portfolio/rp4.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/3.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 3. Al fondo Cine Planet
 
-  - types : rp
-    image : images/portfolio/rp5.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/4.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 4. Directorio Digital en el patio principal
 
-  - types : rp
-    image : images/portfolio/rp6.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/5.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 5. Panel Publicitario
 
-  - types : rp
-    image : images/portfolio/rp7.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/6.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 6. Patio Principal
 
-  - types : rp
-    image : images/portfolio/rp8.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/7.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 7. Patio Principal -zona con vista panorámica
 
-  - types : rp
-    image : images/portfolio/rp10.jpeg
+  - types : rp, patio
+    image : images/portfolio/patio/8.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Patio de Comidas
+    description : 8. Distribución de mesas y sillas
 
-  - types : rp
-    image : images/portfolio/rp9.jpeg
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/1.jpg
     icon : tf-ion-android-search
     URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
+    title : Restaurantes en Patio de Comidas
+    description : 1. Módulo de cupcakes
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/2.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 2. Módulo de churros
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/3.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 3. Cine se encuentra en el mismo nivel del patio de comidas
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/4.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 4. Módulo de helados
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/5.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 5. Havanna cerca a la salida del cine
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/6.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 6. Ubicado entre Havanna y Bembos
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/7.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 7.  Al lado de Bembos se encuentra Otto Grill, Chinawok, Montao y Mamma Pasta y al frente Taco Bell
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/8.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 8.  Existe un tacho para desperdicios y bandejas
+
+  - types : rp, restaurantes
+    image : images/portfolio/restaurantes/9.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Restaurantes en Patio de Comidas
+    description : 9.  Algunas tiendas de comida rápida
 
   - types : research
     image : images/portfolio/research.jpeg
@@ -90,111 +143,6 @@ portfolioItem :
     URL : #
     title : Investigación
     description : Estudio de causas y concecuencias del problema
-
-  - types : rp
-    image : images/portfolio/rpa/rpa1.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa2.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa3.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa4.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa5.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa6.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa7.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa8.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa9.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa10.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa11.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa12.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa13.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa14.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
-
-  - types : rp
-    image : images/portfolio/rpa/rpa15.jpg
-    icon : tf-ion-android-search
-    URL : #
-    title : Patio de comidas
-    description : Imagen del paio de comidas del Real Plaza Salaverry
 
   - types : rp, ottogrill
     image : images/portfolio/otto/grill1.jpg
