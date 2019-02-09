@@ -1,7 +1,7 @@
 ---
 title: "Journey"
 date: 2019-01-23T23:50:37+06:00
-image: images/blog/journey.jpg
+image: images/journey/journey.jpg
 author:  Adela, Carlos, Jose, Celeste, Maritza
 description : "This is meta description"
 ---
