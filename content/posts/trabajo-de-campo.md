@@ -12,7 +12,7 @@ Para lograr identificar el problema o necesidad actual de los usuarios del Centr
 
 Es por ello, que compartiremos lo que hemos obtenido durante este proceso de investigación utilizando dos herramientas: la observación y el desarrollo de encuestas para entrevistar a comensales y a un experto en la administración de tienda de fast food, lo cual fue muy importante para sondearlos en su entorno. 
 
-Primero: recabar información a través de la observación 
+Primero: Recabar información a través de la observación 
 ----
 
 Ingresamos al centro comercial subiendo por las escaleras eléctricas, en donde percibimos la afluencia y congestión de personas (viernes 6:00 pm). De pronto, al terminar las escaleras vimos la señalización que nos indicaba primer nivel, así caminamos unos pasos y apreciamos el directorio digital, el cual es utilizado para una mejor ubicación, ya sea para tiendas y/o estacionamiento.
@@ -51,7 +51,7 @@ De todo ello, identificamos  que existía un problema en la atención al cliente
 
 Ahora era el momento de elaborar el cuestionario para realizar la entrevista tanto para los comensales como para el experto.
 
-Segundo: diseñar preguntas para las entrevistas
+Segundo: Diseñar preguntas para las entrevistas
 -----
 La entrevista nos permitió conocer al cliente que frecuenta el patio de comidas para entender lo que piensa, el criterio utilizado para elegir la ubicación de la mesa, el saber cómo le entregan su pedido, identificar que franquicia considera el usuario que tiene un mejor sistema de entrega de pedido, los problemas que han tenido al momento de la entrega del pedido,  la frecuencia y horario en que visitan el patio de comidas, si le gustaría que todas las franquicias tuvieran una manera estandarizada para atender el pedido y cómo se imagina una mejor atención.
 
@@ -62,22 +62,24 @@ Nuestras entrevistas fueron grabadas y las presentamos en audio para evidenciar 
 Por otro lado, también entrevistamos a un administrador de una reconocida cadena de comida rápida, quien nos indicó que se está trabajando en reducir tiempos de espera para que realmente se logre el objetivo de que el cliente pague y en breves minutos reciba su pedido evitando así congestión, mayores reclamos por confusiones de nombre o pedidos equivocados.
 
 
-Actividades Realizadas
----
+Tercero: Encontrar los insights
+--
 
-**Arbol de causas y efectos**
+Con toda la información recolactada profundizamos  en lo que siente el cliente, en lo que hace y cómo reacciona ante determinadas circunstancias  lo que nos permitió reconocer los insights. Por ello, utilizamos las siguientes herramientas:
 
-![Encuesta a Antonio](/research-insight/images/work/research.jpeg)
+a) El árbol de problemas: es una manera de representar el problema lo que nos permitió entender lo que sucede  en torno al problema central según sus causas y efectos mejorando el análisis y  logrando visualizar datos significativos del caso.
 
-
-
-
-**Mapa de Empatía**
-
-![Encuesta a Antonio](/research-insight/images/work/mapa.jpeg)
+![RESEARCH](/research-insight/images/work/research.jpeg)
 
 
+b) El mapa de empatía: nos permitió comprender al cliente  como persona, utilizamos una matriz en donde básicamente nos enfocamos en 4 preguntas: ¿Qué dice? ¿Qué piensa? ¿Qué hace? ¿Qué siente?.  Con esto obtuvimos varios insights y cada vez estábamos más cerca de la posible solución al problema.
 
-**BrainWriting**
+![RESEARCH](/research-insight/images/work/mapa.jpeg)
 
-![Encuesta a Antonio](/research-insight/images/work/brainwriting.jpeg)
+c) El brainwriting: una vez que obtuvimos los insights del mapa de empatía  procedimos a redactarlos permitiendo que sean la base para la pregunta generadora, la cual consistió en formular lo siguiente; ¿Cómo podríamos hacer que el cliente se encuentre seguro, sin tensión y satisfecho durante la entrega de su pedido?. Pero tuvimos que separarla en tres preguntas para conseguir más alternativas de soluciones. 
+
+![RESEARCH](/research-insight/images/work/brainwriting.jpeg)
+
+Precisamente, el equipo fue motivado a realizar el brainwriting, es decir redactar el problema para que durante tres minutos cada uno de los miembros del equipo redacten tres ideas creativas en una hoja y que al terminar el tiempo se pasaba la hoja a la persona situada a la derecha, agregando así tres ideas más hasta terminar con todo el equipo.
+
+Posteriormente, en otra matriz fuimos agrupando todas nuestras posibles soluciones, descartando aquellas similares y por fin vimos la luz, logrando plasmar la alternativa de respuesta, acercándonos a la solución.

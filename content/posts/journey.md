@@ -6,26 +6,109 @@ author:  Adela, Carlos, Jose, Celeste, Maritza
 description : "This is meta description"
 ---
 
-# El Journey
+# EL JOURNEY
 
-Con toda la información recolactada profundizamos  en lo que siente el cliente, en lo que hace y cómo reacciona ante determinadas circunstancias  lo que nos permitió reconocer los insights. Por ello, utilizamos las siguientes herramientas:
+HERRAMIENTAS UTILIZADAS
+----
 
-a) El árbol de problemas: es una manera de representar el problema lo que nos permitió entender lo que sucede  en torno al problema central según sus causas y efectos mejorando el análisis y  logrando visualizar datos significativos del caso.
+Continuando con el proceso de conocimiento del comensal adoptamos tres herramientas que nos permitieron clasificar la información obtenida de las encuestas.
+Las herramientas usadas fueron:
 
-![RESEARCH](/research-insight/images/work/research.jpeg)
-
-
-b) El mapa de empatía: nos permitió comprender al cliente  como persona, utilizamos una matriz en donde básicamente nos enfocamos en 4 preguntas: ¿Qué dice? ¿Qué piensa? ¿Qué hace? ¿Qué siente?.  Con esto obtuvimos varios insights y cada vez estábamos más cerca de la posible solución al problema.
+Mapa de empatía
+--
 
 ![RESEARCH](/research-insight/images/work/mapa.jpeg)
 
-c) El brainwriting: una vez que obtuvimos los insights del mapa de empatía  procedimos a redactarlos permitiendo que sean la base para la pregunta generadora, la cual consistió en formular lo siguiente; ¿Cómo podríamos hacer que el cliente se encuentre seguro, sin tensión y satisfecho durante la entrega de su pedido?. Pero tuvimos que separarla en tres preguntas para conseguir más alternativas de soluciones. 
+Esta herramienta nos permitió entender mejor al comensal y obtener una gran cantidad de información, los resultados fueron los siguientes:
+
+**¿Qué dicen?**
+
+No pronuncian bien su nombre al momento de ser avisado de la entrega de su pedido.
+
+No escuchan su nombre cuando son avisados para recoger su pedido.
+
+Los nombres repetidos generan confusión al momento de entregar los pedidos.
+
+Se sienta cerca del fast food para escuchar su pedido.
+
+Le incomoda la bulla.
+
+Va al patio de comida porque está cerca al cine.
+
+La comida se enfría mientras espera mesa disponible.
+
+**¿Qué piensan?**
+
+La calidad de entrega de pedido deber ser mejor.
+
+Sería bueno una entrega de pedido debería ser estandarizada.
+
+El tiempo de entrega debería ser más rápido.
+
+El patio de comida debe ser un sitio donde se pueda comer con tranquilidad.
+
+Debería haber alternativa de comida saludable.
+
+El pedido no sea entregado en platos plásticos.
+
+**¿Qué hacen?**
+
+Está atento al llamado.
+
+Después de un tiempo regresa al fast food a preguntar si lo llamaron.
+
+No se sienta en la mesa para poder escuchar su pedido.
+
+Vuelve a comer en el mismo local a pesar que lo atendieron mal.
+
+Prefiere la sazón sobre la calidad de la atención.
+
+Usan mesas para otras actividades.
+
+**¿Qué sienten?**
+
+El personal que atiende el pedido no interactúa con el comensal, su atención es fría y poco amable.
+
+Incertidumbre de si su pedido está listo o no.
+
+Inseguridad de si lo llamaron o no.
+
+Se tensiona por estar atento a escuchar su nombre en la entrega del pedido.
+
+No quiere atención a la mesa porque ocasiona tráfico en el patio de comidas.
+
+Indecisión para elegir la alternativa de comida.
+
+Incomodidad por la falta de higiene en la comida.
+
+
+Brainwriting
+---
+
+A través de esta herramienta generamos ideas para dar solución a las variadas formas de entregas de pedido y que se alinearan a las necesidades y deseos de nuestros encuestados. Las soluciones se enfocaron en cuatro aspectos, de los cuales nos enfocamos en uno solo, “Las mesas”:
+
+**Infraestructura**
+ 
+**Mesas**
+
+Las opciones son:
+
+Uso de beeper para la llamada de entrega de pedido.
+
+Mesa con un foco que de alerta de la entrega de pedido.
+
+Hacer pedido desde la mesa.
+
+Mesa con juegos para entretener al comensal durante la espera de su pedido. 
+
+Mesa con cajones para guardar las cosas.
+
+**Servicios**
+
+**Marketing**  
+
 
 ![RESEARCH](/research-insight/images/work/brainwriting.jpeg)
-
-Precisamente, el equipo fue motivado a realizar el brainwriting, es decir redactar el problema para que durante tres minutos cada uno de los miembros del equipo redacten tres ideas creativas en una hoja y que al terminar el tiempo se pasaba la hoja a la persona situada a la derecha, agregando así tres ideas más hasta terminar con todo el equipo.
-
-Posteriormente, en otra matriz fuimos agrupando todas nuestras posibles soluciones, descartando aquellas similares y por fin vimos la luz, logrando plasmar la alternativa de respuesta, acercándonos a la solución.
 
 Preguntas Generadoras
 ---
@@ -53,7 +136,7 @@ NFC en modo pasivo: uno de los dispositivos no cuenta con fuente de energía pro
 
 ![RESEARCH](/research-insight/images/journey/prototipos.jpeg)
 
-Matriz
+Matriz Receptora
 ---
 **Lo que funciona**
 
