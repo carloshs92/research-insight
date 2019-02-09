@@ -65,7 +65,7 @@ Por otro lado, también entrevistamos a un administrador de una reconocida caden
 Tercero: Encontrar los insights
 --
 
-Con toda la información recolactada profundizamos  en lo que siente el cliente, en lo que hace y cómo reacciona ante determinadas circunstancias  lo que nos permitió reconocer los insights. Por ello, utilizamos las siguientes herramientas:
+Con toda la información recolectada profundizamos  en lo que siente el cliente, en lo que hace y cómo reacciona ante determinadas circunstancias  lo que nos permitió reconocer los insights. Por ello, utilizamos las siguientes herramientas:
 
 a) El árbol de problemas: es una manera de representar el problema lo que nos permitió entender lo que sucede  en torno al problema central según sus causas y efectos mejorando el análisis y  logrando visualizar datos significativos del caso.
 
