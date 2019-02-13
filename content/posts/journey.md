@@ -136,6 +136,36 @@ NFC en modo pasivo: uno de los dispositivos no cuenta con fuente de energía pro
 
 ![RESEARCH](/research-insight/images/journey/prototipos.jpeg)
 
+Solución
+---
+Se ha optado por crear un artefacto llamado likeit.
+
+![LIKEIT](/research-insight/images/journey/mesa0.jpeg)
+
+**Proceso**
+
+I. El comensal se acerca a uno de los restaurantes  de fast food para realizar su pedido, cuando paga el cajero le entrega el dispositivo llamado “Like It” y le explica detalladamente la forma de usarlo, mencionando los dos colores (amarillo y verde) que se utilizan y que deberá devolverlo al momento de la entrega de su pedido.
+
+
+
+II. El comensal elige una de las mesas en donde se encuentra la base transmisora (avisador con luz), que es una especie de cajita donde ingresará el dispositivo “Like It” y automáticamente se encenderá una luz amarilla que indica que su pedido se encuentra en estado de “espera”. Dicha base está conectada con la base principal de la cocina.
+
+
+III. Transcurrido aproximadamente unos 10 minutos (dependiendo de la rapidez de cada restaurante), la luz amarilla cambiará al color verde indicando que el pedido se encuentra listo,  es decir ya es su turno y por lo tanto el comensal deberá retirar a “Like It”  para devolverlo  y de esta manera recibir su pedido.
+
+
+Por ello, con “Like It” deseamos que el cliente pueda sentirse tranquilo, sin tensión de estar atento de escuchar su nombre para que  no se pase su pedido y que logre estar sentado realizando otras actividades mientras espera la atención para disfrutar de lo que ha solicitado en cualquier momento del día.
+
+**Historieta explicando el proceso**
+
+![JOURNEY](/research-insight/images/journey/story.jpeg)
+
+LikeIt
+------
+
+Like it es un juego de palabras entre Light Key y Like It. Ya que tratá de ser la llave de la calma aliviando el estrés de estar pendiente a su pedido dando el conocimiento del estado de tu pedido por medio de luces.
+
+
 Matriz Receptora
 ---
 **Lo que funciona**
@@ -160,7 +190,6 @@ No resuelve el problema cuando este lleno
 
 Protoipo
 ----
-![RESEARCH](/research-insight/images/journey/mesa0.jpeg)
 
 ![RESEARCH](/research-insight/images/journey/mesa1.jpeg)
 
